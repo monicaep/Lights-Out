@@ -1,0 +1,11 @@
+.Box {
+    height: 80px;
+    width: 80px;
+    border-radius: 1px;
+    background-color: #243233;
+    transition: bakcground-color 0.7s ease;
+  }
+  
+  .Box-lit {
+    background-color: #02def0;
+  }
